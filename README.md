@@ -1,2 +1,0 @@
-# HTMLProjectNew
-ItAcademyTUSUR
